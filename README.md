@@ -1,4 +1,4 @@
-# Java-project-for-Senla
+# ATM-project
 
 Банкомат 
 
